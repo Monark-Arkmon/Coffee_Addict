@@ -5,7 +5,7 @@ The **Coffee Addict** is an interactive game built with Python's **Tkinter** lib
 
 ---
 
-## 🚀 Features
+## Features
 - **Player Name Input**: Players can enter their name to personalize their gaming experience.
 - **Start Game**: Begin an exciting coffee-themed adventure.
 - **Keybinds**: View and configure keybinds for the game.
@@ -16,7 +16,7 @@ The **Coffee Addict** is an interactive game built with Python's **Tkinter** lib
 
 ---
 
-## 📋 Requirements
+## Requirements
 ### Software Requirements
 1. **Python 3.x**
 2. Python Libraries:
@@ -30,7 +30,7 @@ If a blank window opens, Tkinter is installed correctly.
 
 ---
 
-## 🔧 Setup Instructions
+## Setup Instructions
 ### 1. Clone the Repository
 Download or clone the project folder:
 ```bash
@@ -45,7 +45,7 @@ python game_solution.py
 
 ---
 
-## 📂 File Structure
+## File Structure
 ```
 coffee_addict_game/
 ├── game_solution.py      # Main script for the game
@@ -60,7 +60,7 @@ coffee_addict_game/
 
 ---
 
-## 🎮 How to Play
+## How to Play
 1. Run the `game_solution.py` script.
 2. Use the main menu to:
    - Enter your name.
